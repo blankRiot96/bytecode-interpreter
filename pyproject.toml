@@ -13,5 +13,10 @@ build-backend = "uv_build"
 [tool.uv.build-backend]
 module-name = "byte"
 
+[dependency-groups]
+tests = [
+    "pytest>=9.1.1",
+]
+
 [project.scripts]
 byte = "byte.__main__:run"
