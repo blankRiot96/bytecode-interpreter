@@ -1,3 +1,6 @@
+⚠️ **NOTE**:  Repo moved to https://codeberg.org/blankRiot96/bytecode-interpreter
+
+#
 Current goal:
 
 in:
